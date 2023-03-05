@@ -7,7 +7,7 @@
     <a href="https://www.instagram.com/binzz._.s2/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/" /></a>&nbsp
     <a href="mailto:cherish.sub2nee@gmail.com"><img
-            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com" /></a>
+            src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=cherish.sub2nee@gmail.com" /></a>
            <br>
            <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsub2nee&count_bg=%23FBBAA5&title_bg=%23ED7373&icon=youtubegaming.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 </p>
