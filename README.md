@@ -15,17 +15,15 @@
 <br>
 <div align=center>
     <h2>🛠 Tech Stack 🛠</h2>
-    <p> [Back Tech Stack]  </p>
+    
 </div>
 <div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=spring&logoColor=white" />
-    <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Conda-Forge&logoColor=white" />
+<img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white" />
 </div>
+
 <br>
 <div align=center>    
-    <p>[DataBase Tech Stack]</p>
 </div>
 <div align=center> 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
@@ -34,16 +32,20 @@
 </div>
 <br>
 <div align=center>    
-    <p>[Front Tech Stack]</p>
+ 
 </div>
 <div align=center> 
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white" />
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/typescript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white" />
+<img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white" />
 </div>
 <br>
 <div align=center>
-	<p>[Tools] </p>
+	<h2> 🛠 Tools 🛠 </h2>
 </div>
 <div align=center>
 	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
@@ -53,8 +55,6 @@
 </div>
 <br>
 
-![sub2nee's github stats](https://github-readme-stats.vercel.app/api?username=sub2nee&show_icons=true&theme=gruvbox&bg_color=00000000)
-[![sub2nee's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sub2nee&show_icons=true&hide_border=true&title_color=ffbc79&icon_color=ffbc79&layout=compact&bg_color=00000000)](https://github.com/sub2nee)
 
 
 
