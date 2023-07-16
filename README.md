@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=1&height=240&section=header&text=welcome&fontSize=70&desc=sub2nee's%20GitHub%20Profile&descSize=20&descAlign=71&descAlignY=55&fontAlignY=40&animation=fadeIn&fontColor=f7f5f5" />
+	<img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=220&section=header&text=Hi%20there👋&fontAlign=70&rotate=13&fontAlignY=25&desc=sub2nee's%20GitHub&descSize=20&descAlign=70&descAlignY=44&animation=fadeIn&fontColor=f7f5f5" />
 </div>
 <br>
 <h3 align="center">💗 SNS List 💗</h3>
@@ -67,12 +67,3 @@
 	
 </div>
 <br>
-
-
-<br>
-
-<div align=center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=1&height=130&section=footer">
-</div>
-
-	
